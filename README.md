@@ -1,9 +1,9 @@
-# ============================================================
+
 # 🌦️ API Integration and Data Visualization
 # Author: Mohammed Asrar Uddin
 # Description: Fetches real-time weather data using OpenWeatherMap API
 #              and visualizes it using Matplotlib and Seaborn.
-# ============================================================
+
 
 import requests
 import pandas as pd
